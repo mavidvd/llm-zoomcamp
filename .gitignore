@@ -6,7 +6,6 @@ dist/
 wheels/
 *.egg-info
 .env
-*/faq.db*
 *.db
 *.db-shm
 *.db-wal
